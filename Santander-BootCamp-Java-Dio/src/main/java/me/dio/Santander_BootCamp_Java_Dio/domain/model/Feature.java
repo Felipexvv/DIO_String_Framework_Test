@@ -1,4 +1,4 @@
-package me.dio.Santander_BootCamp_Java_Dio.model;
+package me.dio.Santander_BootCamp_Java_Dio.domain.model;
 
 import jakarta.persistence.Entity;
 
